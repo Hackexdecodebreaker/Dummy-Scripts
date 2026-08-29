@@ -1,7 +1,7 @@
 #!/bin/bash
 # IP Blocking Bypass via Header Manipulation
 # Author: Hackexdecodebreaker (https://github.com/Hackexdecodebreaker)
-# WARNING: For authorized testing only
+
 
 figlet -f slant "IPBLOCK BYPASS"
 toilet -f mono12 -F metal "Author: Hackexdecodebreaker"
