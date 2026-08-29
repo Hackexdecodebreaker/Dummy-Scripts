@@ -1,7 +1,7 @@
 #!/bin/bash
 # Privilege escalation enumeration script
 # Author: Hackexdecodebreaker (https://github.com/Hackexdecodebreaker)
-# WARNING: For authorized testing only
+
 
 figlet -f slant "PRIVESC"
 toilet -f mono12 -F metal "Author: Hackexdecodebreaker"
