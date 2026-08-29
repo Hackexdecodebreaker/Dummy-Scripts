@@ -1,7 +1,7 @@
 #!/bin/bash
 # Security bypass techniques enumeration script
 # Author: Hackexdecodebreaker (https://github.com/Hackexdecodebreaker)
-# WARNING: For authorized testing only
+
 
 figlet -f slant "BYPASS"
 toilet -f mono12 -F metal "Author: Hackexdecodebreaker"
